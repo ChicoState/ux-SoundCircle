@@ -1,5 +1,4 @@
 # Sketches
 
 
-
-![alt text](me2.jpg)
+![alt text](MVP_Sketch)
