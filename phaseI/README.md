@@ -7,6 +7,15 @@ When designing sound Sound Circle, we decided to create it as a new music sharin
 ## Methods
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
 
+Research Methods Include:
+- Competative Analysis
+- Heuristic Evaluation
+
+  Conclusions:
+- Personas / Scenarios
+- Sketches / Diagrams
+- Optional(User Stories)
+
 While researching for how we wanted Sound Circle to work,
 
 ## Findings
