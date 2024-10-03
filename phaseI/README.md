@@ -2,15 +2,17 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+When designing sound Sound Circle, we decided to create it as a new music sharing, searching, and chatting application which helps the user find others with similar interest and make new friends with similar music tastes. Its application can also be used to share users favorite songs and playlists as well as find musical venues and concerts nearby. Sounds circle is made for music enjoyers, by music lovers.
 
 ## Methods
-
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+
+While researching for how we wanted Sound Circle to work,
 
 ## Findings
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
+Through our lengthy research, the UX team found that most
 
 ## Conclusions
 
