@@ -11,7 +11,7 @@ Research Methods Include:
 - Competative Analysis
 - Heuristic Evaluation
 
-  Conclusions:
+  Conclusion:
 - Personas / Scenarios
 - Sketches / Diagrams
 - Optional(User Stories)
@@ -22,6 +22,7 @@ While researching for how we wanted Sound Circle to work,
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
 Through our lengthy research, the UX team found that most
+- Heuristic Evaluation(Show the table to share findings)
 
 ## Conclusions
 
