@@ -5,11 +5,9 @@
 When designing sound Sound Circle, we decided to create it as a new music sharing, searching, and chatting application which helps the user find others with similar interest and make new friends with similar music tastes. Its application can also be used to share users favorite songs and playlists as well as find musical venues and concerts nearby. Sounds circle is made for music enjoyers, by music lovers.
 
 ## Methods
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+When conducting research for SoundCircle, our UX team used and conducted multiple separate research methods in order to gain a better understanding of both our competitors’ strengths and weaknesses and what our end user may desire. Our first method of research consisted of a competitive analysis of multiple companies’ products that were similar to our own, though they have their own distinct features. The team selected 7 applications or websites and grouped them by similar features. From there the UX team determined and categorized the groupings strengths, weaknesses, quality, price, and platform. Grouping these 7 products by similar main features allowed the UX team to formulate different categorical analysis based on perceived user desires.
 
-Research Methods Include:
-- Competative Analysis
-- Heuristic Evaluation
+Following the competitive analysis the UX team conducted a heuristic evaluation of our main competitor. This was chosen based on the team’s educated assumptions for the current main product of SoundCircle. To this end, “Facebook” was chosen to be evaluated based on the social media aspects of SoundCircle. The UX team utilized “NNgroup”s article on “Ten Usability Heuristics for User Interface Design” to evaluate and score “Facebook”s heuristics on a 1-10 scale. These heuristics were separated into the categories: Visibility of System Status, Match Between the System and the Real World, User Control and Freedom, Consistency and Standards, Error Prevention, Recognition Rather than Recall, Flexibility and Efficiency of Use, Aesthetic and Minimalist Design, Help Users Recognize Diagnose and Recover from Errors, and Help and Documentation. Accompanying the determined 1-10 score were the team’s personally educated determinations of the strengths and weaknesses of the given heuristic category.
 
   Conclusion:
 - Personas / Scenarios
