@@ -2,11 +2,13 @@
 
 # Persona 1 - Samantha
 ![alt text](Persona-1-Samantha.jpg)
+
 *Details:*
 24 year old female
 From Palm Springs, CA
 2024 Graduate, B.A. in Chemistry and Music Minor
- -
+
+ 
 Samantha is currently traveling alone across the states to experience different musical venues to celebrate her recent graduation. She is a huge EDM / House music enjoyer that wants to experience concerts to make new experiences and friends. Even though she loves high energy situations, she is shy and has had no luck making friends with similar musical tastes. She doesn't have a car and instead uses public travel to get places making it harder to get around to meet new people. 
 She also wants to start things slow when meeting new people and rather not give out her phone number and social media profiles. She also would also be nice to know some people before going to the events to have somebody there for her. She wants to have the most fun she can have before settling into her career in the next year or so and make some friends along the way.
 
