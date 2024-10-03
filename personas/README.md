@@ -2,6 +2,8 @@
 
 # Persona 1 - Samantha
 *Details:*
+
+
 24 year old female
 From Palm Springs, CA
 2024 Graduate, B.A. in Chemistry and Music Minor
@@ -14,7 +16,7 @@ She also wants to start things slow when meeting new people and rather not give 
 - Sharing her favorite songs and bands
 - Being able to chat easily
 
-# Persona 2 Steve
+# Persona 2 - Steve
 *Details:*
 19 years young
 Lives in Maryland, US.
@@ -35,11 +37,14 @@ After spending a few years in the US, he kinda misses his hometowns, friends,...
 - To be able to connect with his community in the US.
 - Looking for friends to play music with.
 
-# Persona 3 Thomas
+# Persona 3 - Thomas
 *Details:*
 62 year old in Austin, TX
 Small record store owner
 No higher education 
+
+Tom spends most of his time running his business. Monday - Friday his business is open from 10 am to 8pm. His job allows him to socialize with a wide variety of music enjoyers in his community. He’s married and lives with his 60 year old wife. Together they have a 24 year old daughter who works as a nurse. 
+Tom likes to host up and coming bands in his record store on every other Friday night. However, his wife has recently brought up that this is not a profitable endeavor. Although he charges a small overhead fee to see the bands, the turnout is less than they had hoped. This isn’t harming his business, but some of the regulars have expressed their disappointment in cutting back the amount of live shows being hosted at the record store. 
 
 **Goals**
 - Find local or traveling musicians to reach out to
