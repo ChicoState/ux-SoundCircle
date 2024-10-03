@@ -7,7 +7,7 @@ Sound Circle is a dynamic music platform designed to bring people together throu
 ## UX Team Members
 
 * **[Austin Kleinecke](https://github.com/UsabilityEngineering/ux-journal-akleinecke)** - Code, UI Design
-* **[Dinh Thien Tu Tran](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Dinh Thien Tu Tran](https://github.com/UsabilityEngineering/ux-journal-Harleyquinn1992)** - Code, Backend Design
 * **[Cole Hanna](https://github.com/UsabilityEngineering/ux-journal-kidhanna)** - Graphic Design, analysis and evaluations
 
 # User-Centered Design Artifacts
