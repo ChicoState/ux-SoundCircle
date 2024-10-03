@@ -19,6 +19,7 @@ She also wants to start things slow when meeting new people and rather not give 
 
 ## Persona 2 - Steve
 ![alt text](Persona-2-Steve.jpg)
+
 *Details:*
 - 19 years young
 - Lives in Maryland, US.
@@ -36,6 +37,7 @@ After spending a few years in the US, he kinda misses his hometowns, friends,...
 
 ## Persona 3 - Thomas
 ![alt text](Persona-3-Thomas.png)
+
 *Details:*
 - 62 year old in Austin, TX
 - Small record store owner
