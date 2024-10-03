@@ -51,14 +51,14 @@ Tom likes to host up and coming bands in his record store on every other Friday 
 
 ## Scenarios
 
-**Samantha**
+# Samantha
 Samantha recently arrived in Chico, CA for an upcoming music festival that she's super excited for. She would like to find some people that are also going to the same concert as her so that she can meet and get a feel of before going together. She feels like people with her similar music tastes would make excellent friends and is unsure how to reach out to and find them.
 
-**Steve**
+# Steve
 Steve needs some friends but he does not know where to start, he does not have a car so he can not travel far. 
 He is looking for a live music location nearby within his community so that he can meet more people to befriend with.
 He also wants to know if there are any peers around his area (ZIP code, address…) that share the same taste in hometown music.He is willing to meet up to play some songs together.
 
-**Thomas**
+# Thomas
 Around closing time at the record store, Tom was approached by his assistant-manager Sarah. Sarah asks Tom if he knows of any local Jazz groups that might be around. Tom isn’t very knowledgeable about the local Jazz scene, but promises to find a group to host at the record store soon.
 
