@@ -27,6 +27,7 @@ Sound Circle is a dynamic music platform designed to bring people together throu
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
+
 Main Ideas:
 - What are the takeaways? Summarize report
 - Introduction
