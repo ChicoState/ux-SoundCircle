@@ -1,14 +1,14 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+# Sound Circle
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Sound Circle is a dynamic music platform designed to bring people together through the power of shared musical tastes. Whether you're passionate about discovering new artists, attending local events, or connecting with others who share your unique sound, Sound Circle provides a space for music lovers to build meaningful connections.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Austin Kleinecke](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **[Dinh Thien Tu Tran](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
+* **[Cole Hanna](https://github.com/UsabilityEngineering/ux-journal-kidhanna)** - Graphic Design, analysis and evaluations
 
 # User-Centered Design Artifacts
  
