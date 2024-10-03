@@ -2,7 +2,7 @@
 
 # Sound Circle
 
-Sound Circle is a dynamic music platform designed to bring people together through the power of shared musical tastes. Whether you're passionate about discovering new artists, attending local events, or connecting with others who share your unique sound, Sound Circle provides a space for music lovers to build meaningful connections.
+Sound Circle is a dynamic music platform designed to bring people together through their shared musical tastes. Whether you're passionate about discovering new artists, attending local events, or connecting with others who share your unique sound, Sound Circle provides a space for music lovers to build meaningful connections.
 
 ## UX Team Members
 
