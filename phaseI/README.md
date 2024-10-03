@@ -9,14 +9,6 @@ When conducting research for SoundCircle, our UX team used and conducted multipl
 
 Following the competitive analysis the UX team conducted a heuristic evaluation of our main competitor. This was chosen based on the team’s educated assumptions for the current main product of SoundCircle. To this end, “Facebook” was chosen to be evaluated based on the social media aspects of SoundCircle. The UX team utilized “NNgroup”s article on “Ten Usability Heuristics for User Interface Design” to evaluate and score “Facebook”s heuristics on a 1-10 scale. These heuristics were separated into the categories: Visibility of System Status, Match Between the System and the Real World, User Control and Freedom, Consistency and Standards, Error Prevention, Recognition Rather than Recall, Flexibility and Efficiency of Use, Aesthetic and Minimalist Design, Help Users Recognize Diagnose and Recover from Errors, and Help and Documentation. Accompanying the determined 1-10 score were the team’s personally educated determinations of the strengths and weaknesses of the given heuristic category.
 
-
-  Conclusion:
-- Personas / Scenarios
-- Sketches / Diagrams
-- Optional(User Stories)
-
-While researching for how we wanted Sound Circle to work,
-
 ## Findings
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
@@ -26,6 +18,13 @@ Through our lengthy research, the UX team found that most
 ## Conclusions
 
 !!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+
+  Conclusion:
+- Personas / Scenarios
+- Sketches / Diagrams
+- Optional(User Stories)
+
+While researching for how we wanted Sound Circle to work,
 
 ## Caveats
 
