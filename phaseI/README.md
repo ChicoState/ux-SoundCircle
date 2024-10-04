@@ -11,9 +11,12 @@ Following the competitive analysis the UX team conducted a heuristic evaluation 
 
 ## Findings
 
-!!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
-Through our lengthy research, the UX team found that most
-- Heuristic Evaluation(Show the table to share findings)
+![alt text](image.png)
+
+Through Heuristic Evaluation, we learn that one of our competitors, Facebook, did an excellent job in almost every category. The platform excels in areas such as Matching between system and real world; Consistency and standard; Visibility of system status; and Help users recognize, diagnose, and recover from errors, ensuring a smooth experience for its users. However, there are a few usability minor concerns, particularly related to Flexibility and efficiency of use, and also Help and documentation. While Facebook, our competitor, provides a comprehensive platform some features can be challenging to use. For instance, managing privacy settings can feel overwhelming due to the multilayers and unclear terminology. We believe this issue should significantly increase user satisfaction should we find a way to tackle it.
+
+Through competitive analysis, we anticipate that the majority of our potential audience would prefer a well-designed, user-friendly interface as it can enhance their overall experience. A seamless and intuitive interface will not only meet their needs but also increase engagement and satisfaction, providing our users with the best experience for a music-based social media app. In addition, our UX team also learned that the demographic of our designated users is very specific: college students, teenagers, festival or concert attendees. These users are particularly focused on forming new friendships and connections, which again highlights the importance of a well-designed UI that cater to their social and interactional needs.
+
 
 ## Conclusions
 
