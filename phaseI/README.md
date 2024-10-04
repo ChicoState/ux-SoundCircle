@@ -19,14 +19,7 @@ Through competitive analysis, we anticipate that the majority of our potential a
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
-
-  Conclusion:
-- Personas / Scenarios
-- Sketches / Diagrams
-- Optional(User Stories)
-
-While researching for how we wanted Sound Circle to work,
+By using self-made demographic personas, the UX team determined that the main focus of current application features should steer towards a more localized social media presence. This determination led to the immediate development of a community focused "feed" consisting of user created "posts". Using the data collected via the conducted heuristic analysis, the UX team recommends that future development steers towards a more community focused experience for the end user in regards to their music related interests; meaning that some features such as groups, friends, location based feed, may be required in future development. Based on our use of persona's and collaborative UX/SE team user stories, the UX team created the current MVP sketch which focuses on a user feed and a skeletonized framework for future development of a likely API driven sidebar.
 
 ## Caveats
 
