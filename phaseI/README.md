@@ -11,7 +11,7 @@ Following the competitive analysis the UX team conducted a heuristic evaluation 
 
 ## Findings
 
-![alt text](image.png)
+![alt text](<PHASE1 FINDINGS.png>)
 
 Through Heuristic Evaluation, we learn that one of our competitors, Facebook, did an excellent job in almost every category. The platform excels in areas such as Matching between system and real world; Consistency and standard; Visibility of system status; and Help users recognize, diagnose, and recover from errors, ensuring a smooth experience for its users. However, there are a few usability minor concerns, particularly related to Flexibility and efficiency of use, and also Help and documentation. While Facebook, our competitor, provides a comprehensive platform some features can be challenging to use. For instance, managing privacy settings can feel overwhelming due to the multilayers and unclear terminology. We believe this issue should significantly increase user satisfaction should we find a way to tackle it.
 
