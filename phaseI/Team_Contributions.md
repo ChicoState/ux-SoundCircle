@@ -6,6 +6,11 @@
 
 # Dinh Thien Tu Tran
 * Findings
+* Misc grammar checking
+* Personas/scenerios checking
 
 # Cole Hanna
-* 
+* Transferring and organizing of personas/scenerios
+* Introduction/Caveats
+* Grammar checking and revisions
+* Sound Circle Breif Summary
