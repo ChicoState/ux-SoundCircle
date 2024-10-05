@@ -8,6 +8,7 @@
 * Findings and image analysis
 * Misc grammar checking
 * Personas/scenerios checking
+* Introduction
 
 # Cole Hanna
 * Transferring and organizing of personas/scenerios
