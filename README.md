@@ -9,8 +9,6 @@ Sound Circle is a dynamic music platform designed to bring people together throu
 * **[Cole Hanna](https://github.com/UsabilityEngineering/ux-journal-kidhanna)** - Graphic Design, analysis and evaluations
 
 # User-Centered Design Artifacts
- 
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
