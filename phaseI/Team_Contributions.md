@@ -5,7 +5,7 @@
 * Misc grammar revisions
 
 # Dinh Thien Tu Tran
-* Findings
+* Findings and image analysis
 * Misc grammar checking
 * Personas/scenerios checking
 
