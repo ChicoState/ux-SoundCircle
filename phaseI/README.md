@@ -2,7 +2,7 @@
 
 ## Introduction
 
-When designing Sound Circle, we decided to create it as a new music sharing, searching, and chatting application that helps the user find others with similar interests and make new friends with similar music tastes. Its application can also be used to share users favorite songs and playlists as well as find musical venues and concerts nearby. Sounds Circle is made for music enjoyers, by music lovers.
+As we started to design Sound Circle, we decided to focus it as a music listening and searching platform that also incorperated music sharing and social chatting operations that also helps the user find friends with people of similar musical interests and tastes. During this first phase, we conducted in-depth research on our competitors strengths and weaknesses, how well their systems perform and preset, and how we should design and convey our system, all through various research techniques.
 
 ## Methods
 When conducting research for SoundCircle, our UX team used and conducted multiple separate research methods in order to gain a better understanding of both our competitors’ strengths and weaknesses and what our end user may desire. Our first method of research consisted of a competitive analysis of multiple companies’ products that were similar to our own, though they have their own distinct features. The team selected 7 applications or websites and grouped them by similar main features, such as “Music Listening Platform”, “Social Media Platform”, and “Messaging Platform”. From there, the UX team determined and categorized the groupings strengths, weaknesses, quality, price, and platform. The team then took this data and determined several main demographics of users who would likely use most of these applications or websites.
