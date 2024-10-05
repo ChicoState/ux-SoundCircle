@@ -21,19 +21,19 @@ Sound Circle is a dynamic music platform designed to bring people together throu
 
 **Executive Summary**
 
-* Competative analysis revealed opportunities within current social media market by addressing customer needs:
+* Competative Analysis identified opportunities within the current social media landscape by addressing unmet customer needs:
   * Very few platforms focus on the **connecting of users based on shared music related interests**.
-  * Most music based platforms focus on the listening to of music.
-* Heuristic evaluation identified weaknesses of competing social media platforms:
-  * Main features feel **overtly simplified for less savvy audience.**
-  * When creating a new post, rarely used UI elements are too different and overly flashy.
-* Personas and scenarios created insights of user wants and needs:
-  * Platform to socialize with **local users with similar interests.**
-  * Easy discovery of similar music artists and genres.
+  * Most music based platforms emphasize the listening experience and don't consider social interaction.
+* Heuristic Evaluation highlighted the strengths and weaknesses of competing social media platforms:
+  * Many features were **overtly simplified, catering to a less tech-savvy audience.**
+  * The UI elements for creating a new posts are inconsistent and contained several rarely used elements that were overly flashy and visually distracting.
+* Personas and Scenarios helped provide insights into user(s) wants and needs:
+  * A platform that enables socialization with **local users with similar interests.**
+  * Straighforward discovery of similar music tastes, artists, and genres.
   * Finding and hosting of music-based **events and concerts**.
 * Sketches of MVP illustrate initial features:
-  * Feed of **user populated posts**.
-  * Search with location-based filtering.
+  * An expanding feed of **user-generated posts**.
+  * A search system with location-based filtering.
   * Sidebar skeleton of future API calls for artists, friends, genres, and events.
 
 [Full phase I report](phaseI/)
