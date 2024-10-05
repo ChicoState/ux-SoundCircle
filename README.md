@@ -1,5 +1,3 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # Sound Circle
 
 Sound Circle is a dynamic music platform designed to bring people together through their shared musical tastes. Whether you're passionate about discovering new artists, attending local events, or connecting with others who share your unique sound, Sound Circle provides a space for music lovers to build meaningful connections.
@@ -8,11 +6,9 @@ Sound Circle is a dynamic music platform designed to bring people together throu
 
 * **[Austin Kleinecke](https://github.com/UsabilityEngineering/ux-journal-akleinecke)** - UI Design, Heuristic Analysis
 * **[Dinh Thien Tu Tran](https://github.com/UsabilityEngineering/ux-journal-Harleyquinn1992)** - Code, Backend Design
-* **[Cole Hanna](https://github.com/UsabilityEngineering/ux-journal-kidhanna)** - Graphic Design, analysis and evaluations
+* **[Cole Hanna](https://github.com/UsabilityEngineering/ux-journal-kidhanna)** - Design and Analysis
 
 # User-Centered Design Artifacts
- 
-!!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
@@ -21,18 +17,24 @@ Sound Circle is a dynamic music platform designed to bring people together throu
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
+
+
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-
-Main Ideas:
-- What are the takeaways? Summarize report
-- Introduction
-- Bulletpoints
-- Make it Short and don't put too much bold
+* Competative Analysis identified opportunities within the current social media landscape by addressing unmet customer needs:
+  * Very few platforms focus on the **connecting of users based on shared music related interests**.
+  * Most music based platforms emphasize the listening experience and don't consider social interaction.
+* Heuristic Evaluation highlighted the strengths and weaknesses of competing social media platforms:
+  * Many features were **overtly simplified, catering to a less tech-savvy audience.**
+  * The UI elements for creating a new posts are inconsistent and contained several rarely used elements that were overly flashy and visually distracting.
+* Personas and Scenarios helped provide insights into user(s) wants and needs:
+  * A platform that enables socialization with **local users with similar interests.**
+  * Straighforward discovery of similar music tastes, artists, and genres.
+  * Finding and hosting of music-based **events and concerts**.
+* Sketches of MVP illustrate initial features:
+  * An expanding feed of **user-generated posts**.
+  * A search system with location-based filtering.
+  * Sidebar skeleton of future API calls for artists, friends, genres, and events.
 
 [Full phase I report](phaseI/)
 
