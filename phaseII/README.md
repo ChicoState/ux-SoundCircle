@@ -2,26 +2,20 @@
 
 ## Introduction
 
-Durring Phase II of the Sound Circle Application, time was spent focusing on gathering data from evaluators using a Cognative Walkthrough and informal feedback approach. Using our newly collected ideas in order to fine-tune and modify our Wireframes design to better help our partner Software Engineers application in their software design process.
-
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
-followed by a brief summary of the UX team's focus for this phase of work.
+During Phase II of the Sound Circle Application, our time was focused on evaluating our current designs using a cognative walkthrough and informal feedback approaches. Using these research strategies, we would benefit from a fresh perspective towards our application to better help our design development. We were to then use our newly collected ideas in order to fine-tune and modify our wireframe design to better help ourselves and assist our partner software engineers in their software design process.
 
 ## Methods
 
-When conducting research for the SoundCircle Application, our UX team employed sevaral research strategies it order to gauge our current design progress to see if we were going in the right direction. The first research method emplored was a Cognative Walkthrough. Some students in the Usability Engineering UX teams we given the oupertunity to walkingthrough and analyze SoundCircle's current wireframe iterations.
-Three(n = 3) external UX student evaluators were given access to SoundCircle's Wireframes and then able to fully scrutinize our designs by putting themselves into the shoes of one of our Personas names Samantha under her scenario. Samantha's persona desribes her as a recently graduated 24 year old female whos traveling for around for music venues for her music tastes. She is shy but wants wants to make friends through the SoundCircle application under the scenario that she wants to make local friends to go with to the concert
-Using Samantha's Persona and Scenario, the UX evaluators analysis found several overlooked and vulnerable application steps. Using the Wireframes at that current state lacked several ideals that Samantha was intersted in such as lack of friend making and profile creation, unready local location data, event details and follwing aspects, and in all. It was also greatly suggested to better differentiate the application between music social media and event interaction applicaiton.
-Each of their reviews brough to light several shortcomings on the SoundCircle deign teams behaf that was improved upon through the interations of the Phase II period.
-The other research method emplored was informal feedback questions given to the CSCI 430 Software Enginering Class(n = 65).
+In Phase II of developing the SoundCircle Application, our UX team employed several research strategies to evaluate our current design progress. The first method researched we used was a Cognitive Walkthrough. We invited students from other Usability Engineering UX teams to review and analyze the current wireframe iteration of SoundCircle.
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+Three external UX student evaluators(n = 3) were given access to SoundCircle's Wireframes and asked to throughly scrutinize our designs by stepping into the shoes of one of our personas, named Samantha, within her designated scenario. Samantha is a 24-year-old recent graduate who travels to various music venues to explore her musical interests. Though she is shy, she aspires to make friends through the SoundCircle application. Given her scenario, she hopes to connect with local friends who can accompany her to a concert.
 
- Describe research methods you used to discover new insights, which explains the purpose of each 
+Using Samantha’s persona and scenario, the UX evaluators steped through and identified several overlooked and vulnerable areas within the application Wireframe. At this stage, the Wireframes lacked several key features important to Samantha, such as lack of friend-making and profile creation, functional location data, event details and population and searching categories. Additionally, the evaluators emphasized the need to clearly differentiate SoundCircle as both a music-based social media platform and an event interaction application.Their analyses highlighted several shortcomings in the SoundCircle design that the team set out to address and improved upon throughout the iterations in Phase II.
+
+Another research method we employed was gathering informal feedback from the CSCI 430 Software Engineering class (n = 65). We posed two key questions to the students. The first question was, "As a potential user, what features or functionalities would make you more likely to use this software and connect with new people?" The second question asked, "In what situations could you see yourself using this application?" From their feedback, it was found that most of the ideas suggested were ones that we had in mind for later implementation but it better steered us in the right directions in proritization.
 
 The report's methods section should give detailed instructions on how the cognitive walkthrough was performed, including:
 * What questions were answered with each step of the cognitive walkthrough
-In addition, it should describe how informal feedback was gathered, including the questions that were asked during the SE team's demo and that a classroom of undergraduate software engineering students provided responses to those questions.
 
 
 ## Findings
