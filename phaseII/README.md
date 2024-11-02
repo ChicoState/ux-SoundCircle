@@ -3,7 +3,7 @@
 ## Introduction
 
 During Phase II of the SoundCircle Application, we focused on evaluating our current designs through a cognitive walkthrough and informal feedback methods. Using these research strategies could then provide us with a fresh perspective on our application, aiding our future design development process. We could utilize these newly gathered insights to refine and adjust our wireframe design, benefiting both our team and our partner software engineers in their software development process.
-
+aaaaaaaaaaaaaaaa
 ## Methods
 
 In Phase II of developing the SoundCircle application, our UX team employed a couple of research strategies to evaluate our current design progress.
