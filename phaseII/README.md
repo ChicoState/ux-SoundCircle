@@ -16,11 +16,8 @@ For Steve, user found out that our product's main page is overwhelming to some d
 
 For Samantha, users successfully created posts but wonder where to look for, this can be interpreted as the users want to see what post they have made and notifications regarding to their posts (whether someone else like/comment on the post).
 
-As of the feedbacks during the first presentations, the class of software engineers made some suggestions to our team's product. Our team has to be selective among received comments to assest what changes would fit best for out product.
-* Friend suggestions to users who share same type of music.
-* Show who also comes to the events that the user will be attending. 
-* Being able to control what other will see on the user page.
-* Sharing link of music, link of posts.
+As of the feedbacks during the first presentations, the class of software engineers made some suggestions to our team's product. We to be selective among received comments to assest what changes would fit best for out product. We consider making changes for the following problems: The user page was lacking options to add/follow friends that share similar palate in music; some users want to be able to see who also attend the events with them; not giving users ability to share links of posts, events, and music.
+
 ## Conclusions
 
 The SoundCircle developers acknowledge that our product need a lot of changes to the UI in order to boost the satisfaction of user experience.
