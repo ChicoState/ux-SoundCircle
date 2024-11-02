@@ -6,7 +6,7 @@
 3. [User Feed](#user-feed)
 4. [User Profile Pages](#user-profile-pages)
 
-## 1. User Authentication and Profile Setup
+## User Authentication and Profile Setup
 - **Description**: User log-in page using Google Authentication, ensuring a secure and streamlined experience
 
   **Preview**: 
@@ -21,7 +21,7 @@
 ![alt text](UserSetup.png)
 
 ----------------------
-## 2. Search and Search Results
+## Search and Search Results
 - **Description**: A simple user search request using the search bar
 
   **Preview**: 
@@ -32,7 +32,7 @@
 ![alt text](SearchResultsPage.png)
 
 ----------------------
-## 3. User Feed
+## User Feed
 - **Description**: A users for you feed page with tailored content from a users followed artists
 
   **Preview**: 
@@ -43,7 +43,7 @@
 ![alt text](FeedNearby.png)
 
 ----------------------
-## 4. User Profile Pages
+## User Profile Pages
 - **Description**: User profile page showing an unfollowed profile
 
   **Preview**: 
