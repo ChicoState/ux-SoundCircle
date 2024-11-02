@@ -2,21 +2,26 @@
 
 ## Introduction
 
-During Phase II of the Sound Circle Application, our time was focused on evaluating our current designs using a cognative walkthrough and informal feedback approaches. Using these research strategies, we would benefit from a fresh perspective towards our application to better help our design development. We were to then use our newly collected ideas in order to fine-tune and modify our wireframe design to better help ourselves and assist our partner software engineers in their software design process.
+During Phase II of the SoundCircle Application, we focused on evaluating our current designs through a cognitive walkthrough and informal feedback methods. Using these research strategies could then provide us with a fresh perspective on our application, aiding our future design development process. We could utilize these newly gathered insights to refine and adjust our wireframe design, benefiting both our team and our partner software engineers in their software development process.
 
 ## Methods
 
-In Phase II of developing the SoundCircle Application, our UX team employed several research strategies to evaluate our current design progress. The first method researched we used was a Cognitive Walkthrough. We invited students from other Usability Engineering UX teams to review and analyze the current wireframe iteration of SoundCircle.
+In Phase II of developing the SoundCircle application, our UX team employed a couple of research strategies to evaluate our current design progress.
 
-Three external UX student evaluators(n = 3) were given access to SoundCircle's Wireframes and asked to throughly scrutinize our designs by stepping into the shoes of one of our personas, named Samantha, within her designated scenario. Samantha is a 24-year-old recent graduate who travels to various music venues to explore her musical interests. Though she is shy, she aspires to make friends through the SoundCircle application. Given her scenario, she hopes to connect with local friends who can accompany her to a concert.
+### Cognitive Walkthrough
+Our first method was a Cognitive Walkthrough, where we invited students from other Usability Engineering UX teams to review and analyze our current wireframe iteration of SoundCircle. Three UX student evaluators (n = 3) were given access to the wireframes and tasked with evaluating the design by adopting the perspective of one of our personas, Samantha, and her personal scenario. Samantha is described as a 24-year-old recent graduate who frequently travels to various music venues to explore her musical interests. It is shown in her scenario that even though she is shy, she aspires to make friends through the SoundCircle app and hopes to connect with local friends to attend concerts together.
 
-Using Samantha’s persona and scenario, the UX evaluators steped through and identified several overlooked and vulnerable areas within the application Wireframe. At this stage, the Wireframes lacked several key features important to Samantha, such as lack of friend-making and profile creation, functional location data, event details and population and searching categories. Additionally, the evaluators emphasized the need to clearly differentiate SoundCircle as both a music-based social media platform and an event interaction application.Their analyses highlighted several shortcomings in the SoundCircle design that the team set out to address and improved upon throughout the iterations in Phase II.
+Using this information, he UX evaluators meticulously walked through the wireframes using Samantha’s persona and scenario, identifying areas that overlooked important ideas and lacked critical features. This included an absence of friend-making and profile creation functionalities, comprehensive local event details, and robust location data. Additionally, the evaluators emphasized the need to clearly differentiate SoundCircle as both a music-based social media platform and an event interaction application. Their analyses highlighted several shortcomings in the SoundCircle design that the team set out to address and improved upon throughout the iterations in Phase II.
 
-Another research method we employed was gathering informal feedback from the CSCI 430 Software Engineering class (n = 65). We posed two key questions to the students. The first question was, "As a potential user, what features or functionalities would make you more likely to use this software and connect with new people?" The second question asked, "In what situations could you see yourself using this application?" From their feedback, it was found that most of the ideas suggested were ones that we had in mind for later implementation but it better steered us in the right directions in proritization.
+### Informal Feedback for Peers
+Our second research method we employed was gathering informal feedback from our partnered CSCI 430 Software Engineering class students (n = 65). We posed two open-ended questions:
+1. "_As a potential user, what features or functionalities would make you more likely to use this software and connect with new people?_"
+   - Responses highlighted the importance of diverse music genre options, detailed event information, attendance features, and tools for making and suggesting friends based on similar musical tastes.
+   
+3. "_In what situations could you see yourself using this application?_"
+   - Feedback indicated interest in using the app for following local bands, designing personalized profiles, sharing or concealing music preferences based on user settings, and emphasizing social music-sharing capabilities.
 
-The report's methods section should give detailed instructions on how the cognitive walkthrough was performed, including:
-* What questions were answered with each step of the cognitive walkthrough
-
+The input from this feedback session validated many of our planned features and provided direction on prioritizing specific functionalities. This informed our focus areas and helped us better align our design with user expectations during Phase II.
 
 ## Findings
 
