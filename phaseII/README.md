@@ -23,6 +23,25 @@ As of the feedbacks during the first presentations, the class of software engine
 * Sharing link of music, link of posts.
 ## Conclusions
 
+The SoundCircle developers acknowledge that our product need a lot of changes to the UI in order to boost the satisfaction of user experience.
+
+In regard to feedbacks we receive, changes have been made to the product.
+
+![alt text](<Log in Page.png>)
+
+![alt text](<Prompt Page.png>)
+
+![alt text](<Username Pic Setup.png>)
+
+
+The first change was for the login process. After successfully login with google account, the app will navigate user to a different page to set up the user's profile. Only after going through the prompts that the user will see the main home page. This is to eliminate the "overwhelming first impression" for new users.
+
+In addition, our team have completely changed the set up for the user profile page. Realizing that our first design of user page is considerably amateur, we decided to uptake our user profile page by enabling adding friends, following people, editing profiles (add preferences, taste, genres,...), showing events. In addition, as an attempt to differentiate our product to other social media platform such as Facebook and Instagram, the SoundCircle UX designers decided to add album review feature on the user page. The user will be able to show their opinions, including scores and commments, on albums that they find like/dislike.
+
+![alt text](<User Profile Page.png>)
+
+We hope these combined changes will further satisfy user's experience as well as making our product stand out to our competitors.
+
 
 ## Caveats
 
