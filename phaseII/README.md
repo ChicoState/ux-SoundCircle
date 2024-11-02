@@ -39,11 +39,17 @@ The SoundCircle developers acknowledge that our product need a lot of changes to
 
 In regard to feedbacks we receive, changes have been made to the product.
 
-![alt text](<Log in Page.png>)
+<div style="border: 2px solid #000; padding: 10px; display: inline-block;">
+    <img src="GoogleAuthPage.png" alt="Google Auth Page" />
+</div>
 
-![alt text](<Prompt Page.png>)
+<div style="border: 2px solid #000; padding: 10px; display: inline-block;">
+    <img src="ProfilePromptPage.png" alt="Profile Prompt Page" />
+</div>
 
-![alt text](<Username Pic Setup.png>)
+<div style="border: 2px solid #000; padding: 10px; display: inline-block;">
+    <img src="UserSetup.png" alt="User Setup" />
+</div>
 
 
 The first change was for the login process. After successfully login with google account, the app will navigate user to a different page to set up the user's profile. Only after going through the prompts that the user will see the main home page. This is to eliminate the "overwhelming first impression" for new users.
