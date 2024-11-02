@@ -1,21 +1,55 @@
 # Wireframes
 
-Logging in Wireframes: 
-* Google Authentication Page for logging in users.
+## Table of Contents
+1. [User Authentication and Profile Setup](#user-authentication-and-profile-setup)
+2. [Search and Search Results](#search-and-search-results)
+3. [User Feed](#user-feed)
+4. [User Profile Pages](#user-profile-pages)
+
+## 1. User Authentication and Profile Setup
+- **Description**: User log-in page using Google Authentication, ensuring a secure and streamlined experience
+
+  **Preview**: 
 ![alt text](GoogleAuthPage.png)
-* User profile prompt page with username and photo inserts sections
+- **Description**: A simple questionnaire to customize a user's music taste and profile
+
+  **Preview**: 
 ![alt text](ProfilePromptPage.png)
-* User Profile questions to help fill out user music tastes
+- **Description**: A prompt page for first time users to personalize their profile with a username and photo
+
+  **Preview**: 
 ![alt text](UserSetup.png)
 
-Search bar and page Wireframes: 
+----------------------
+## 2. Search and Search Results
+- **Description**: A simple user search request using the search bar
+
+  **Preview**: 
 ![alt text](SearchBar.png)
+- **Description**: User search request results filtered by adustable categories on the side
+
+  **Preview**: 
 ![alt text](SearchResultsPage.png)
 
-User feed page Wireframes: 
+----------------------
+## 3. User Feed
+- **Description**: A users for you feed page with tailored content from a users followed artists
+
+  **Preview**: 
 ![alt text](FeedFYP.png)
+- **Description**: User feed page with a recommended near by event advertisement, using location data for personalized recommendations
+
+  **Preview**: 
 ![alt text](FeedNearby.png)
 
-User profile folowing/Not-folowing Wireframes: 
-![alt text](UserProfileFollowing.png)
+----------------------
+## 4. User Profile Pages
+- **Description**: User profile page showing an unfollowed profile
+
+  **Preview**: 
 ![alt text](UserProfileNOTFollowing.png)
+- **Description**: User profile page showing a followed profile
+
+  **Preview**: 
+![alt text](UserProfileFollowing.png)
+
