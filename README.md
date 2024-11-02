@@ -42,10 +42,19 @@ Sound Circle is a dynamic music platform designed to bring people together throu
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+Phase 2 research and design focusing primarily on **aligning design with desired functionality and expectations**.
+
+* Informal Feedback displayed **current user stories align with user needs**:
+  * Adjusted user story priorities to better serve development of functionality.
+  * New feature requests were added to user story board and **adjusted based on importance**.
+* **Development of Wireframes began** in order to create usable designs for use by the development team:
+  * Current wireframes are finalized to meet current phase goals.
+* Cognitive Walkthroughs revealed flaws within functionality and clarity of current Wireframes and desire for future features:
+  * External UX designers displayed concerns about SoundCircle being **too similar to current social media products**. 
+  * Walkthroughs revealed need of additional clarity for existing functionality.
+  * Pre-existing **wireframes were adjusted for clarity** and desired functionality to reflect external feedback.
+
+
 
 [Full phase II report](phaseII/)
 
