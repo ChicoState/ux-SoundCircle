@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Durring Phase II of the Sound Circle Application, our time was spent focused on gathering data from . . . in order to fine-tune and modify our Wireframes design to better help our partner Software Engineers application in their software design process.
+Durring Phase II of the Sound Circle Application, time was spent focusing on gathering data from evaluators using a Cognative Walkthrough and informal feedback approach. Using our newly collected ideas in order to fine-tune and modify our Wireframes design to better help our partner Software Engineers application in their software design process.
 
 !!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
 followed by a brief summary of the UX team's focus for this phase of work.
@@ -10,17 +10,16 @@ followed by a brief summary of the UX team's focus for this phase of work.
 ## Methods
 
 When conducting research for the SoundCircle Application, our UX team employed sevaral research strategies it order to gauge our current design progress to see if we were going in the right direction. The first research method emplored was a Cognative Walkthrough. Some students in the Usability Engineering UX teams we given the oupertunity to walkingthrough and analyze SoundCircle's current wireframe iterations.
-Three(n = 3) external UX student evaluators were given access to SoundCircle's Wireframes and then able to fully scrutinize our designs by putting themselves into the shoes of one of our Personas names Samantha under her scenario. Samantha's persona desribes her as a recently graduated 24 year old female whos traveling for around for concerts with her music tastes. She is shy but wants wants to make friends through the SoundCircle application under the scenario that shes dosnt't want to go alone to a concert shes interested in.
-Using Samantha's Persona and Scenario, the UX evaluators analysis showed some overlooked and vulnerable design choices. Each evaluators steps report
-
+Three(n = 3) external UX student evaluators were given access to SoundCircle's Wireframes and then able to fully scrutinize our designs by putting themselves into the shoes of one of our Personas names Samantha under her scenario. Samantha's persona desribes her as a recently graduated 24 year old female whos traveling for around for music venues for her music tastes. She is shy but wants wants to make friends through the SoundCircle application under the scenario that she wants to make local friends to go with to the concert
+Using Samantha's Persona and Scenario, the UX evaluators analysis found several overlooked and vulnerable application steps. Using the Wireframes at that current state lacked several ideals that Samantha was intersted in such as lack of friend making and profile creation, unready local location data, event details and follwing aspects, and in all. It was also greatly suggested to better differentiate the application between music social media and event interaction applicaiton.
+Each of their reviews brough to light several shortcomings on the SoundCircle deign teams behaf that was improved upon through the interations of the Phase II period.
+The other research method emplored was informal feedback questions given to the CSCI 430 Software Enginering Class(n = 65).
 
 !!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
 
  Describe research methods you used to discover new insights, which explains the purpose of each 
 
 The report's methods section should give detailed instructions on how the cognitive walkthrough was performed, including:
-* how many external UX evaluators performed cognitive walkthroughs
-* which personas/scenarios they used\
 * What questions were answered with each step of the cognitive walkthrough
 In addition, it should describe how informal feedback was gathered, including the questions that were asked during the SE team's demo and that a classroom of undergraduate software engineering students provided responses to those questions.
 
