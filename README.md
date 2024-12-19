@@ -62,9 +62,9 @@ Phase 2 research and design focusing primarily on **aligning design with desired
 
 **Executive Summary**
 
-Phase 3 centered on conducting **usability tests* to pinpoint **key issues and improvement opportunities** in our research.
+Phase 3 centered on conducting **usability tests** to pinpoint **key issues and improvement opportunities** in our research.
 * **Creating Prototypes and Testing Protocols:**
-  * Drafting an **informed consent form** to ensure tester are comfortorble and willing
+  * Drafting an **informed consent form** to ensure tester are comfortorble and willing.
   * Developed and utilized **baseline and debrief questions** to effectively engage users and gather insights.
 * **Conducting Usability Tests for Comprehensive Data Collection and Analysis with Real Users:**
   * Evaluated user **interaction and procedural flows** by testing users on pre-set tasks.
