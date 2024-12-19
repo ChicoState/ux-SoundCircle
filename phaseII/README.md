@@ -56,7 +56,9 @@ The first change was for the login process. After successfully login with google
 
 In addition, our team have completely changed the set up for the user profile page. Realizing that our first design of user page is considerably amateur, we decided to uptake our user profile page by enabling adding friends, following people, editing profiles (add preferences, taste, genres,...), showing events. In addition, as an attempt to differentiate our product to other social media platform such as Facebook and Instagram, the SoundCircle UX designers decided to add album review feature on the user page. The user will be able to show their opinions, including scores and commments, on albums that they find like/dislike.
 
-![alt text](<User Profile Page.png>)
+<div style="border: 2px solid #000; padding: 10px; display: inline-block;">
+    <img src="User Profile Page.png" alt="User Profile Page" />
+</div>
 
 We hope these combined changes will further satisfy user's experience as well as making our product stand out to our competitors.
 
