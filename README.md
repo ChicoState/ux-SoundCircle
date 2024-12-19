@@ -62,19 +62,16 @@ Phase 2 research and design focusing primarily on **aligning design with desired
 
 **Executive Summary**
 
-Phase 3 focused on the preparation and performance of **usability tests** to identify **key issues and opportunities for improvement** in our research.
-
+Phase 3 centered on conducting **usability tests* to pinpoint **key issues and improvement opportunities** in our research.
 * **Creating Prototypes and Testing Protocols:**
   * Drafting an **informed consent form** to ensure tester are comfortorble and willing
   * Developed and utilized **baseline and debrief questions** to effectively engage users and gather insights.
-
 * **Conducting Usability Tests for Comprehensive Data Collection and Analysis with Real Users:**
-  * Tested users on pre-set tasks to **evaluate interaction and procedural flows.**
+  * Evaluated user **interaction and procedural flows** by testing users on pre-set tasks.
   * Gathering both **qualitative and quantitative** data to capture a holistic view of user experience.
-
 * **Conclusions and Summaries:**
- * Analysis of the users **strengths/weaknesses** and **likes/dislikes** was found to be mainly positive
- * Addressed important fixes and weak points for future development.
- * Taking into consideration their experiences to improve future designs and **useability**
+  * We identified both **strengths and weaknesses**, along with user **preferences and aversions**, and found the overall feedback to be **predominantly positive.**
+  * Addressing significant issues and areas needing improvement for future development.
+  * Incorporating user feedback to refine and enhance future designs and usability.
 
 [Full phase III report](phaseIII/)
