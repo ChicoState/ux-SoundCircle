@@ -106,7 +106,7 @@ The usability test was conducted with 6 participants to evaluate the ease of use
 * Even though there are difficulties in completing some of the tasks, most participants' feedback on the prototype is extremely positive. They appreciated the intuitive design of the homepage and the feature to connect with others based on music taste.
 * In addition, although most of the feedback was positive and the participants successfully completed most of the given tasks. There are some drawbacks that the team had to acknowledge in order to make improvements: There was too much information on the screen, the sidebar looked like an advertisement, and the product looked too close to Facebook.
 
-To see further details on our collected data during the User Test: [Data](https://docs.google.com/spreadsheets/d/1NiFywH1mYTV2HDwDjFkdohniwTTQTz4es070jSqwsFA/edit?usp=sharing)
+To see further details on our collected data during the User Test: [Sound Circle Data Spreadsheet](https://docs.google.com/spreadsheets/d/1NiFywH1mYTV2HDwDjFkdohniwTTQTz4es070jSqwsFA/edit?usp=sharing)
 
 ## Conclusions
 From the user testing of the SoundCircle prototype, we observed that most users interacted well and completed tasks with varying degrees of success. In terms of usability, some users found the interface to be intuitive, fresh, well-designed, and enjoyable. However, others felt that certain sections were redundant, the prototype had issues, and important areas were overlooked due to clutter.
