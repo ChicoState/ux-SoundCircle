@@ -6,7 +6,7 @@ Phase III of the UX research for SoundCircle focused on developing and user-test
 
 ## Methods
 
-During Phase III the UX team developed a UI prototype for the SoundCircle application and designed an accompanying [usability protocol](phaseIII/SCUsabilityProtocol.pdf) to test user experiences. The study aimed to assess key components of usability such as navigation, accessibility, functionality, and user satisfaction by using a formative evaluation approach. Participants were guided through a think-aloud process, encouraging them to verbalize their thoughts while interacting with the prototype in order to provide real-time insights into their experience.
+During Phase III the UX team developed a UI prototype for the SoundCircle application and designed an accompanying [usability protocol](SCUsabilityProtocol.pdf) to test user experiences. The study aimed to assess key components of usability such as navigation, accessibility, functionality, and user satisfaction by using a formative evaluation approach. Participants were guided through a think-aloud process, encouraging them to verbalize their thoughts while interacting with the prototype in order to provide real-time insights into their experience.
 
 ### Protocol Overview
 The study was divided into four main stages: **Introduction**, **Baseline Questions**, **Task-Based Testing**, and a **Debrief** session.
