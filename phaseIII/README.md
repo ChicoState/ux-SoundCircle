@@ -12,7 +12,7 @@ During Phase III the UX team developed a UI prototype for the SoundCircle applic
 The study was divided into four main stages: **Introduction**, **Baseline Questions**, **Task-Based Testing**, and a **Debrief** session.
 
 ### Introduction
-Participants were introduced to the study following the signature of an informed consent form.  They were reassured that the study was focused on evaluating the prototype, not their individual performance. This stage was aimed to set a comfortable tone and ensure the participants felt at ease with sharing their feedback.
+Participants were introduced to the study following the signature of an informed consent form. They were reassured that the study was focused on evaluating the prototype, not their individual performance. This stage was aimed at setting a comfortable tone and ensuring the participants felt at ease with sharing their feedback.
 
 ### Baseline Questions
 This section gathered contextual information about participants’ habits and preferences related to music and social media. These insights were used to understand user needs and expectations to allow for improvements on future iterations of SoundCircle’s design.
@@ -33,12 +33,12 @@ This section gathered contextual information about participants’ habits and pr
 * Identifying problem points in other platforms will allow the team to focus on addressing these gaps in SoundCircle’s design.
 
 *“Would you find it useful to connect with others based on mutual interests in music? Why or why not?”*
-* This question explored participants’ attitudes towards a core purpose of SoundCircle and provide valuable feedback on its perceived utility.
+* This question explored participants’ attitudes towards a core purpose of SoundCircle and provided valuable feedback on its perceived utility.
 
 *“How often do you attend music-related events?”*
 * This question assessed how likely participants are to engage with event-related content and features of the application.
 
-*“What challenges have you faced when searching for music related events in your local area?”*
+*“What challenges have you faced when searching for music-related events in your local area?”*
 * Participants’ responses highlighted existing frustrations in event discovery, providing insight for the team to refine features and address these issues within SoundCircle.
 
 *“If a platform helped you discover events and connect with others based on shared music interests, what would make it stand out for you?”*
@@ -80,7 +80,7 @@ The study concluded with a debrief session to gather participants’ overall imp
 * By assessing clarity, this question helped identify areas where the purpose or functionality of the application could be communicated more effectively.
 
 *“Were there any tasks that you found particularly difficult or confusing to accomplish? Why?”*
-* This question allowed participants to highlight specific usability issues and guiding future targeted design improvements.
+* This question allowed participants to highlight specific usability issues and guide future targeted design improvements.
 
 *“What did you like most about the website?”*
 * Positive feedback from this question helped identify strengths to build upon in future iterations.
@@ -96,15 +96,15 @@ The study focused on following a formative evaluation approach, primarily identi
 
 ## Findings
 
-The usability test was condeucted with 6 participants to evaluate the ease of use and user experience of our SoundCircle prototype. The data collection includes both qualitative insights and quantitative metrics.
+The usability test was conducted with 6 participants to evaluate the ease of use and user experience of our SoundCircle prototype. The data collection includes both qualitative insights and quantitative metrics.
 
 **Quantitative Data**
-* Task Completion Rate: 93% of participants successfully completed the primary task (navigating home/user page, follow user, add groups, look up people/artists) without assistance.
-* Error rate: An average of 30% of participants agree that the "near-by" option on homepage was too small to see. In addition, more than 50% of participants had trouble looking for way to make an album review which located in user's "Review" page.
+* Task Completion Rate: 93% of participants successfully completed the primary task (navigating home/user page, following a user, adding a group, looking up people/artists) without assistance.
+* Error rate: An average of 30% of participants agree that the "nearby" option on the homepage was too small to see. In addition, more than 50% of participants had trouble looking for a way to make an album review that was located in the user's "Review" page.
 
 **Qualitative Data**
-* Even though there are difficulties in completing some of the tasks, most participants' feedback on the prototype are extremely positive. They appreciated the intuitive design of the homepage and the feature to connect with others based on music taste.
-* In addition, although most of the feedback were positive and the participants successfully completed most of the given tasks. There are some drawbacks that the team had to acknowledge in order to make improvements: There was too much information on the screen, the sidebar looked like advertisement, and the product looked too close to Facebook.
+* Even though there are difficulties in completing some of the tasks, most participants' feedback on the prototype is extremely positive. They appreciated the intuitive design of the homepage and the feature to connect with others based on music taste.
+* In addition, although most of the feedback was positive and the participants successfully completed most of the given tasks. There are some drawbacks that the team had to acknowledge in order to make improvements: There was too much information on the screen, the sidebar looked like an advertisement, and the product looked too close to Facebook.
 
 To see further details on our collected data during the User Test: https://docs.google.com/spreadsheets/d/1NiFywH1mYTV2HDwDjFkdohniwTTQTz4es070jSqwsFA/edit?gid=0#gid=0
 
