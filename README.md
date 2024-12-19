@@ -6,7 +6,7 @@ Sound Circle is a dynamic music platform designed to bring people together throu
 
 * **[Austin Kleinecke](https://github.com/UsabilityEngineering/ux-journal-akleinecke)** - Phase III Contributions: Introduction, Methods, Prototype: Feed, Artist page, Event page, Group page
 * **[Dinh Thien Tu Tran](https://github.com/UsabilityEngineering/ux-journal-Harleyquinn1992)** - Phase III: Model Design, Prototyping Syncing and Useability, and Testing Moderation
-* **[Cole Hanna](https://github.com/UsabilityEngineering/ux-journal-kidhanna)** - Phase III: Product Design, Analysis, Testing and Moderating
+* **[Cole Hanna](https://github.com/UsabilityEngineering/ux-journal-kidhanna)** - Phase III: Product Design, Analysis, Testing and Moderating of Prototype
 
 # User-Centered Design Artifacts
 
