@@ -109,27 +109,18 @@ The usability test was condeucted with 6 participants to evaluate the ease of us
 To see further details on our collected data during the User Test: https://docs.google.com/spreadsheets/d/1NiFywH1mYTV2HDwDjFkdohniwTTQTz4es070jSqwsFA/edit?gid=0#gid=0
 
 ## Conclusions
-The interpretation of your findings, including both
-  (A) recommended changes to improve the user experience
-  (B) aspects of the design that are affirmed to remain as-is
-Discoveries derived from the methods and their findings
-Interpret how the findings translate into new insights into UX design recommendations.
-Describe those recommendations and how they should shape future work.
-In this section, include the new design recommendations based on the latest user insights.
+From the user testing of the SoundCircle prototype, we observed that most users interacted well and completed tasks with varying degrees of success. In terms of usability, some users found the interface to be intuitive, fresh, well-designed, and enjoyable. However, others felt that certain sections were redundant, the prototype had issues, and important areas were overlooked due to clutter.
 
-From the user testing of the SoundCircle prototype, we observed that most users interacted well and completed tasks with varying degrees of success. In terms of usability, some users found the interface to be intuitive, fresh, well-designed, and enjoyable. However, others felt that certain sections were redundant, the prototype was overly buggy, and important areas were overlooked due to clutter.
-The implementation of the prototype faced limitations due to time constraints and software usability issues. Consequently, many aspects of the variability and openness of our design were not fully realized. It was also surprising to observe the different ways participants completed tasks that we hadn't considered initially.
-Based on user experiences, we found that our page needed to be more concise and less cluttered, with more important features being easier to see. Additionally, we should focus on creating a unique identity for SoundCircle rather than mirroring popular social media platforms.
-Regarding the design, most testers provided valuable feedback, highlighting both strengths and areas for improvement. The insights gathered will guide the next steps in refining and enhancing the SoundCircle application.
+The implementation of the prototype faced limitations due to time constraints and software usability issues. Consequently, many aspects of the variability and openness of our design were not fully realized. Users tended to disregard the sidebar on the main page because they saw it as not useful, a distraction, or even as advertisements, making them less likely to use it. It would be important to either simplify its design, have it pop up only when the user wants it to, or remove it and place its features elsewhere. We would keep the similar design of the pages but add more clarifications as well as more buttons for important and commonly used tasks.
 
+Based on user experiences, we found that our pages needed to be more concise and less cluttered, with more important features being easier to see. Additionally, we should focus on creating a unique identity for SoundCircle rather than mirroring popular social media platforms. While we chose similar designs to help users feel at ease and familiar with other products, we should aim to make SoundCircle stand out as a separate entity. It's also important to consider the different ways and paths participants completed tasks that we hadn't considered initially. Understanding these user behaviors is valuable for future designs.
+
+We believe that we have a pretty good start but still have a lot to improve when it comes to usability. Testers provided valuable feedback, highlighting both strengths and areas for improvement. The insights gathered will guide the next steps in refining and enhancing the SoundCircle application.
 
 ## Caveats
-One significant issue highlighted by our users was the inconsistencies and buggy behavior of our prototyping software, which was largely out of our control. Users also expressed their displeasure about the limited search capabilities within our prototype, which was partly a design flaw and partly a consequence of time constraints and the extensive iterations required to implement comprehensive search functionality and behaviors.
-Another limitation was the decreased size of our testing pool, which made it difficult to obtain a proper gauge of a sufficiently diverse and representative sample. The participants were also somewhat biased towards the tasks at hand, as they were learning alongside us, which made them less susceptible to typical user challenges. The lack of randomness and diversity in our user pool prevented us from capturing the genuine fresh perspectives that a random user could provide.
-Our product as well should have been tested towards ranging levels of techlological literacy and useability since its unfair grouping if were testing only computer degree based user.
+One significant issue highlighted by our users was the inconsistencies and buggy behavior of our prototyping software, which was largely out of our control. Users also expressed their displeasure about the limited search capabilities within our prototype. This limitation was partly a design flaw and partly a consequence of time constraints and the extensive iterations required to implement comprehensive search functionality.
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them.
-In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc.
-A description of limitations to your study or stipulations to the conclusions you made
+Another limitation was the decreased size of our testing pool, which made it difficult to obtain a proper gauge of a sufficiently diverse and representative sample. The participants were somewhat biased towards the tasks at hand, as they were learning alongside us, making them less susceptible to typical user challenges. The lack of randomness and diversity in our user pool prevented us from capturing the genuine fresh perspectives that a random user could provide.
 
-!!!
+Our product should have also been tested across varying levels of technological literacy and usability, as it is unfair to group only computer degree-based users. Additionally, we aimed to test people with higher interests in music, concerts, and social connections through music. However, testing a more general population also provided useful insights.
+
