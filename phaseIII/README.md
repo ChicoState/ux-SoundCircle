@@ -97,9 +97,11 @@ The study focused on following a formative evaluation approach, primarily identi
 ## Findings
 
 The usability test was condeucted with 6 participants to evaluate the ease of use and user experience of our SoundCircle prototype. The data collection includes both qualitative insights and quantitative metrics.
+
 **Quantitative Data**:
 * Task Completion Rate: 93% of participants successfully completed the primary task (navigating home/user page, follow user, add groups, look up people/artists) without assistance.
 * Error rate: An average of 30% of participants agree that the "near-by" option on homepage was too small to see. In addition, more than 50% of participants had trouble looking for way to make an album review which located in user's "Review" page.
+
 **Qualitative Data**
 * Even though there are difficulties in completing some of the tasks, most participants' feedback on the prototype are extremely positive. They appreciated the intuitive design of the homepage and the feature to connect with others based on music taste.
 * In addition, although most of the feedback were positive and the participants successfully completed most of the given tasks. There are some drawbacks that the team had to acknowledge in order to make improvements: There was too much information on the screen, the sidebar looked like advertisement, and the product looked too close to Facebook.
