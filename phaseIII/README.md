@@ -97,18 +97,28 @@ The study focused on following a formative evaluation approach, primarily identi
 ## Findings
 
 The usability test was condeucted with 6 participants to evaluate the ease of use and user experience of our SoundCircle prototype. The data collection includes both qualitative insights and quantitative metrics.
-** Quantitative Data**:
+**Quantitative Data**:
 * Task Completion Rate: 93% of participants successfully completed the primary task (navigating home/user page, follow user, add groups, look up people/artists) without assistance.
-* Error rate: An average of 30% of participants agree that the "neayby" option on homepage was too small to see. In addition, more than 50% of participants had trouble looking for way to make an album review which located in user's "Review" page.
+* Error rate: An average of 30% of participants agree that the "near-by" option on homepage was too small to see. In addition, more than 50% of participants had trouble looking for way to make an album review which located in user's "Review" page.
 **Qualitative Data**
 * Even though there are difficulties in completing some of the tasks, most participants' feedback on the prototype are extremely positive. They appreciated the intuitive design of the homepage and the feature to connect with others based on music taste.
-* In addition, although most of the feedback were positive and the participants successfully completed most of the given tasks. There are some drawbacks that the team had to acknowledge in order to make improvements: There are too much information on the screen, sidebar looked like advertisement, look too close to Facebook.
+* In addition, although most of the feedback were positive and the participants successfully completed most of the given tasks. There are some drawbacks that the team had to acknowledge in order to make improvements: There was too much information on the screen, the sidebar looked like advertisement, and the product looked too close to Facebook.
 
 To see further details on our collected data during the User Test: https://docs.google.com/spreadsheets/d/1NiFywH1mYTV2HDwDjFkdohniwTTQTz4es070jSqwsFA/edit?gid=0#gid=0
 
 ## Conclusions
+The interpretation of your findings, including both
+  (A) recommended changes to improve the user experience
+  (B) aspects of the design that are affirmed to remain as-is
+Discoveries derived from the methods and their findings
+Interpret how the findings translate into new insights into UX design recommendations.
+Describe those recommendations and how they should shape future work.
+In this section, include the new design recommendations based on the latest user insights.
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+From the user testing of the Sound Circle Prototype, we found that most users interacted well and completed our prototype with varried ways of success. In terms of the usability, some users found it to be intuative, fresh and well designed and enjoyable while some thought it was redundant in sections, the was prototype overly buggy, and even disregareded important sections due to it being overcluttered. Only so much could be done in the prototypes implementation and much of the variability and openess of our design was un-implemented due to time constraints and the softwarse usability issues.
+and in terms of the design 
+Most testers 
+
 
 ## Caveats
 
