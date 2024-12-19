@@ -13,7 +13,7 @@ Sound Circle is a dynamic music platform designed to bring people together throu
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](https://www.figma.com/design/uPFehJ6oJvFlu2iKw5bTvK/x10-Wireframes-Practice?node-id=0-1&t=twXUyOnCaTiYPeyS-1)
+* [Prototype]([https://www.figma.com/design/uPFehJ6oJvFlu2iKw5bTvK/x10-Wireframes-Practice?node-id=0-1&t=twXUyOnCaTiYPeyS-1](https://www.figma.com/design/uPFehJ6oJvFlu2iKw5bTvK/x10-Wireframes-Practice?node-id=251-352&t=rkPNU2z4Y6MRhUlN-1))
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
