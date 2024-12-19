@@ -117,11 +117,19 @@ Interpret how the findings translate into new insights into UX design recommenda
 Describe those recommendations and how they should shape future work.
 In this section, include the new design recommendations based on the latest user insights.
 
-From the user testing of the Sound Circle Prototype, we found that most users interacted well and completed our prototype with varried ways of success. In terms of the usability, some users found it to be intuative, fresh and well designed and enjoyable while some thought it was redundant in sections, the was prototype overly buggy, and even disregareded important sections due to it being overcluttered. Only so much could be done in the prototypes implementation and much of the variability and openess of our design was un-implemented due to time constraints and the softwarse usability issues.
-and in terms of the design 
-Most testers 
+From the user testing of the SoundCircle prototype, we observed that most users interacted well and completed tasks with varying degrees of success. In terms of usability, some users found the interface to be intuitive, fresh, well-designed, and enjoyable. However, others felt that certain sections were redundant, the prototype was overly buggy, and important areas were overlooked due to clutter.
+The implementation of the prototype faced limitations due to time constraints and software usability issues. Consequently, many aspects of the variability and openness of our design were not fully realized. It was also surprising to observe the different ways participants completed tasks that we hadn't considered initially.
+Based on user experiences, we found that our page needed to be more concise and less cluttered, with more important features being easier to see. Additionally, we should focus on creating a unique identity for SoundCircle rather than mirroring popular social media platforms.
+Regarding the design, most testers provided valuable feedback, highlighting both strengths and areas for improvement. The insights gathered will guide the next steps in refining and enhancing the SoundCircle application.
 
 
 ## Caveats
+One significant issue highlighted by our users was the inconsistencies and buggy behavior of our prototyping software, which was largely out of our control. Users also expressed their displeasure about the limited search capabilities within our prototype, which was partly a design flaw and partly a consequence of time constraints and the extensive iterations required to implement comprehensive search functionality and behaviors.
+Another limitation was the decreased size of our testing pool, which made it difficult to obtain a proper gauge of a sufficiently diverse and representative sample. The participants were also somewhat biased towards the tasks at hand, as they were learning alongside us, which made them less susceptible to typical user challenges. The lack of randomness and diversity in our user pool prevented us from capturing the genuine fresh perspectives that a random user could provide.
+Our product as well should have been tested towards ranging levels of techlological literacy and useability since its unfair grouping if were testing only computer degree based user.
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them.
+In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc.
+A description of limitations to your study or stipulations to the conclusions you made
+
+!!!
